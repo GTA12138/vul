@@ -22,12 +22,12 @@ When we use directory scanning software like dirsearch, we can access and downlo
 
 You can find the accounts and passwords stored there. Username: vitomaster, password: viessmann1917
 
-![1](C:\Users\21016.LAPTOP-KGP1GRG0\Desktop\Viessmann\1.png)
+![1](.\1.png)
 
-![2](C:\Users\21016.LAPTOP-KGP1GRG0\Desktop\Viessmann\2.jpg)
+![2](.\2.jpg)
 
-![3](C:\Users\21016.LAPTOP-KGP1GRG0\Desktop\Viessmann\3.jpg)
+![3](.\3.jpg)
 
-![4](C:\Users\21016.LAPTOP-KGP1GRG0\Desktop\Viessmann\4.png)
+![4](.\4.png)
 
-![5](C:\Users\21016.LAPTOP-KGP1GRG0\Desktop\Viessmann\5.png)
+![5](.\5.png)
