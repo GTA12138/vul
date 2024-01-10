@@ -23,7 +23,7 @@ Where backup files are configured, there is no filtering of parameters for downl
 
 
 
-First login to our example server, click Device Management - Configuration Management - Download Backup File, and then use burpsuite to capture the packet, we can see the filename, when we change the filename parameter to, passwd, we find that the device still executes our request and downloads the passwd file
+First login to our example server, click Device Management - Configuration Management - Download Backup File(设备管理-配置管理-下载备份文件), and then use burpsuite to capture the packet, we can see the filename, when we change the filename parameter to, passwd, we find that the device still executes our request and downloads the passwd file
 
 and you can use this url to test:https://218.205.129.204:8443/log/download.php?local=yes&type=filedown&file=L2V0Yy9wYXNzd2Q=&filename=passwd
 
