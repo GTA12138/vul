@@ -6,11 +6,10 @@
 
 **Affected system version:** S150
 
-**Firmware download address:** 58.18.133.60:8443
+**Firmware download address:** 
 
 https://218.205.129.204:8443/patrolflow.php
 
-113.140.35.82:8443
 
 **Reported by:** Songyuqing ([q14774807663@gmail.com](mailto:pushe4x@gmail.com))
 
