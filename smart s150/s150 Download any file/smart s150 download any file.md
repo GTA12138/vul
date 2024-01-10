@@ -4,7 +4,7 @@
 
 **Product page:** https://connectivity.viessmann.com/gb/mp-fp/vitogate/vitogate-300-bn-mb.html
 
-**Affected system version:** S150
+**Affected system version:** S150  Smart V31R02B15
 
 **Firmware download address:** 
 
